@@ -1,0 +1,93 @@
+,tipo,bairro,preço,tamanho,quartos,banheiros,garagens
+0,casa,Engenho do Meio,R$ 460.000,137m²,3,2,1
+1,casa,Várzea,R$ 2.500,168m²,3,2,2
+2,casa,Guabiraba,R$ 510.000,142m²,3,3,2
+3,casa,Areias,R$ 1.500,110m²,3,2,1
+4,casa,Apipucos,R$ 1.890.000,250m²,4,1,5
+5,casa,Cordeiro,R$ 650.000,190m²,4,1,2
+6,casa,Tamarineira,R$ 15.000,690m²,5,5,2
+7,casa,Encruzilhada,R$ 3.500,200m²,3,1,1
+8,casa,Sancho,R$ 250.000,60m²,2,2,1
+9,casa,Várzea,R$ 4.200,331m²,4,5,3
+10,casa,Engenho do Meio,R$ 598.000,266m²,4,4,2
+11,casa,Graças,R$ 5.500,252m²,4,2,2
+12,casa,Bongi,R$ 750.000,153m²,4,3,5
+13,casa,Tamarineira,R$ 5.200,280m²,6,4,8
+14,casa,Monteiro,R$ 1.800.000,233m²,5,5,6
+15,casa,Imbiribeira,R$ 700.000,180m²,3,3,3
+16,casa,Madalena,R$ 1.300.000,355m²,7,5,6
+17,casa,Encruzilhada,R$ 7.875,600m²,4,2,30
+18,casa,Boa Viagem,R$ 690.000,280m²,6,6,5
+19,casa,Tamarineira,R$ 350.000,110m²,2,2,2
+20,casa,Jiquiá,R$ 1.800,124m²,3,1,1
+21,casa,Ipsep,R$ 1.700,102m²,3,1,2
+22,casa,Parnamirim,R$ 7.000,250m²,5,1,6
+23,casa,Torre,R$ 2.200.000,290m²,7,6,4
+24,casa,Afogados,R$ 375.000,160m²,5,3,3
+25,casa,Ipsep,R$ 300.000,126m²,4,1,1
+26,casa,Tamarineira,R$ 2.200,60m²,2,1,2
+27,casa,Santo Amaro,R$ 5.000,350m²,1,3,4
+28,casa,Iputinga,R$ 440.000,198m²,2,3,2
+29,casa,Espinheiro,R$ 9.000,440m²,7,5,10
+30,casa,Santo Amaro,R$ 11.250,300m²,4,3,4
+31,casa,San Martin,R$ 1.950,120m²,4,1,1
+32,casa,Engenho do Meio,R$ 590.000,300m²,4,4,4
+33,casa,Casa Forte,R$ 13.000,10m²,4,2,5
+34,casa,Engenho do Meio,R$ 350.000,54m²,1,1,1
+35,casa,Encruzilhada,R$ 4.631,300m²,3,1,2
+36,casa,Parnamirim,R$ 1.300.000,250m²,5,1,6
+37,casa,Imbiribeira,R$ 499.000,200m²,3,3,3
+38,casa,Graças,R$ 20.000,400m²,12,5,20
+39,casa,Boa Viagem,R$ 1.100.000,309m²,5,4,4
+40,casa,Imbiribeira,R$ 3.750,230m²,3,2,5
+41,casa,Tamarineira,R$ 5.637,300m²,5,2,3
+42,casa,Areias,R$ 1.850,200m²,3,2,3
+43,casa,Caxangá,R$ 1.435.000,210m²,4,3,5
+44,casa,Prado,R$ 5.250,364m²,3,3,6
+45,casa,Madalena,R$ 4.800,131m²,4,2,4
+46,casa,Imbiribeira,R$ 259.000,44m²,2,1,1
+47,casa,Santo Amaro,R$ 4.500,675m²,4,2,5
+48,casa,Alto do Mandu,R$ 1.000.000,356m²,4,3,3
+49,casa,Santana,R$ 13.500,487m²,1,1,2
+50,casa,Boa Viagem,R$ 1.200.000,125m²,4,4,2
+51,casa,Prado,R$ 1.500.000,450m²,4,4,5
+52,casa,Bongi,R$ 1.900,140m²,4,2,1
+53,casa,Boa Viagem,R$ 10.000,250m²,4,1,3
+54,casa,Poço da Panela,R$ 15.000,10m²,5,2,5
+55,casa,Cordeiro,R$ 480.000,280m²,3,2,3
+56,casa,Prado,R$ 3.500,200m²,3,1,3
+57,casa,Encruzilhada,R$ 575.000,10m²,3,2,2
+58,casa,Casa Amarela,R$ 1.350,90m²,2,2,1
+59,casa,Poço da Panela,R$ 900.000,10m²,3,1,2
+60,casa,Torre,R$ 2.805,200m²,3,2,1
+61,casa,San Martin,R$ 360.000,76m²,2,2,2
+62,casa,Boa Viagem,R$ 2.320,180m²,5,4,2
+63,casa,Boa Vista,R$ 750.000,270m²,5,4,2
+64,casa,Jardim São Paulo,R$ 3.600,100m²,3,2,2
+65,casa,Poço da Panela,R$ 1.370.000,256m²,4,5,2
+66,casa,Tamarineira,R$ 7.031,380m²,6,6,5
+67,casa,Iputinga,R$ 5.330,210m²,6,5,5
+68,casa,Ilha do Retiro,R$ 700.000,148m²,3,1,4
+69,casa,Casa Amarela,R$ 6.000,320m²,5,5,4
+70,casa,Boa Vista,R$ 2.900.000,646m²,10,6,10
+71,casa,Afogados,R$ 1.350,136m²,2,1,1
+72,casa,Cordeiro,R$ 285.000,70m²,2,3,1
+73,casa,Caxangá,R$ 290.000,107m²,3,2,2
+74,casa,Cordeiro,R$ 260.000,150m²,3,1,1
+75,casa,Dois Irmãos,R$ 260.000,100m²,3,1,1
+76,casa,Casa Amarela,R$ 1.950.000,633m²,6,3,4
+77,casa,Campo Grande,R$ 770.000,161m²,3,1,2
+78,casa,Várzea,R$ 1.500.000,400m²,4,4,8
+79,casa,Tejipió,R$ 380.000,90m²,3,3,2
+80,casa,Santo Amaro,R$ 890.000,216m²,3,4,2
+81,casa,Boa Vista,R$ 790.000,250m²,4,3,3
+82,casa,Casa Forte,R$ 1.450.000,200m²,3,2,10
+83,casa,Iputinga,R$ 520.000,257m²,6,6,3
+84,casa,Graças,R$ 1.800.000,321m²,6,3,5
+85,casa,Várzea,R$ 848.000,331m²,4,5,3
+86,casa,Estância,R$ 650.000,207m²,4,3,3
+87,casa,San Martin,R$ 400.000,150m²,3,2,3
+88,casa,Tamarineira,R$ 900.000,225m²,5,2,2
+89,casa,Sítio dos Pintos,R$ 2.600.000,306m²,4,5,6
+90,casa,San Martin,R$ 260.000,100m²,3,1,1
+91,casa,Encruzilhada,R$ 450.000,286m²,3,2,5

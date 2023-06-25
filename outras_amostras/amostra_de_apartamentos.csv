@@ -1,0 +1,1152 @@
+,tipo,bairro,preço,tamanho,quartos,banheiros,garagens
+0,apartamento,Espinheiro,R$ 330.000,122m²,3,3,1
+1,apartamento,Boa Viagem,R$ 1.990.000,344m²,3,2,1
+2,apartamento,Torre,R$ 280.000,90m²,3,2,1
+3,apartamento,Boa Viagem,R$ 590.000,98m²,3,3,1
+4,apartamento,Soledade,R$ 150.000,32m²,1,1,1
+5,apartamento,Espinheiro,R$ 400.000,75m²,3,1,1
+6,apartamento,Cordeiro,R$ 390.000,63m²,2,2,1
+7,apartamento,Casa Forte,R$ 575.000,100m²,3,2,1
+8,apartamento,Tamarineira,R$ 420.000,59m²,3,2,1
+9,apartamento,Parnamirim,R$ 998.000,155m²,4,2,2
+10,apartamento,Madalena,R$ 1.300.000,136m²,4,4,2
+11,apartamento,Boa Viagem,R$ 950.000,284m²,3,3,1
+12,apartamento,Iputinga,R$ 350.000,82m²,3,2,1
+13,apartamento,Espinheiro,R$ 790.000,109m²,3,3,2
+14,apartamento,Torre,R$ 750.000,90m²,3,1,2
+15,apartamento,Encruzilhada,R$ 385.000,69m²,3,3,1
+16,apartamento,Apipucos,R$ 840.000,10m²,4,2,4
+17,apartamento,Boa Viagem,R$ 1.200.000,189m²,4,4,3
+18,apartamento,Boa Viagem,R$ 980.000,160m²,2,3,2
+19,apartamento,Madalena,R$ 1.108.779,123m²,4,4,2
+20,apartamento,Aflitos,R$ 1.100.000,132m²,4,4,2
+21,apartamento,Boa Viagem,R$ 520.000,111m²,3,2,1
+22,apartamento,Encruzilhada,R$ 335.000,52m²,2,1,1
+23,apartamento,Boa Vista,R$ 570.000,66m²,3,2,1
+24,apartamento,Boa Viagem,R$ 480.000,144m²,4,4,1
+25,apartamento,Pina,R$ 390.000,65m²,3,1,1
+26,apartamento,Santo Amaro,R$ 2.000.000,207m²,4,5,3
+27,apartamento,Parnamirim,R$ 1.132.093,105m²,3,1,2
+28,apartamento,Madalena,R$ 872.854,90m²,3,3,2
+29,apartamento,Encruzilhada,R$ 690.000,106m²,3,1,2
+30,apartamento,Cordeiro,R$ 459.000,62m²,3,2,1
+31,apartamento,Madalena,R$ 480.000,57m²,2,2,1
+32,apartamento,Torre,R$ 420.000,60m²,2,2,2
+33,apartamento,Boa Viagem,R$ 550.000,65m²,2,2,1
+34,apartamento,Várzea,R$ 85.000,48m²,2,1,1
+35,apartamento,Boa Viagem,R$ 600.000,142m²,3,2,2
+36,apartamento,Casa Forte,R$ 650.000,58m²,2,2,1
+37,apartamento,Várzea,R$ 150.000,60m²,3,2,1
+38,apartamento,Boa Viagem,R$ 850.000,160m²,4,4,2
+39,apartamento,Cordeiro,R$ 570,76m²,3,3,1
+40,apartamento,Boa Viagem,R$ 164.000,65m²,3,2,1
+41,apartamento,Boa Viagem,R$ 1.200.000,195m²,4,4,2
+42,apartamento,Rosarinho,R$ 911.911,84m²,4,1,2
+43,apartamento,Boa Vista,R$ 320.000,78m²,3,2,1
+44,apartamento,Madalena,R$ 485.000,62m²,2,1,1
+45,apartamento,Boa Viagem,R$ 331.800,37m²,1,1,1
+46,apartamento,Encruzilhada,R$ 441.550,58m²,2,2,1
+47,apartamento,San Martin,R$ 330.000,68m²,3,2,1
+48,apartamento,Espinheiro,R$ 335.000,68m²,3,2,1
+49,apartamento,Jardim São Paulo,R$ 265.000,64m²,3,1,1
+50,apartamento,Pina,R$ 1.600.000,136m²,4,2,2
+51,apartamento,Casa Amarela,R$ 550.000,77m²,3,3,2
+52,apartamento,Encruzilhada,R$ 430.000,60m²,3,1,1
+53,apartamento,Ilha do Retiro,R$ 350.000,103m²,3,1,1
+54,apartamento,Boa Viagem,R$ 1.580.000,137m²,4,4,2
+55,apartamento,Prado,R$ 340.000,75m²,2,1,1
+56,apartamento,Boa Viagem,R$ 900.000,170m²,4,4,2
+57,apartamento,Graças,R$ 900.000,136m²,4,4,2
+58,apartamento,Boa Viagem,R$ 520.000,72m²,3,3,1
+59,apartamento,Parnamirim,R$ 1.600.000,237m²,4,5,3
+60,apartamento,Graças,R$ 1.270.000,152m²,3,4,2
+61,apartamento,Torre,R$ 350.000,70m²,3,2,1
+62,apartamento,Boa Viagem,R$ 1.390.000,94m²,3,3,2
+63,apartamento,Arruda,R$ 372.378,67m²,3,2,1
+64,apartamento,Boa Viagem,R$ 600.000,69m²,3,2,2
+65,apartamento,Aflitos,R$ 650.000,97m²,3,3,2
+66,apartamento,Boa Viagem,R$ 770.000,97m²,3,2,2
+67,apartamento,Boa Viagem,R$ 540.000,65m²,3,1,1
+68,apartamento,Boa Vista,R$ 346.500,45m²,2,2,1
+69,apartamento,Ilha do Retiro,R$ 1.159.000,135m²,4,5,2
+70,apartamento,Apipucos,R$ 1.899.000,208m²,4,5,4
+71,apartamento,Boa Viagem,R$ 1.300.000,146m²,4,2,2
+72,apartamento,Boa Viagem,R$ 1.569.000,132m²,4,1,2
+73,apartamento,Torre,R$ 430.000,60m²,3,2,2
+74,apartamento,Espinheiro,R$ 270.000,65m²,3,2,1
+75,apartamento,Jaqueira,R$ 1.200.000,205m²,4,1,2
+76,apartamento,Boa Viagem,R$ 550.000,114m²,3,3,2
+77,apartamento,Boa Viagem,R$ 580.000,131m²,4,4,2
+78,apartamento,Espinheiro,R$ 750.000,96m²,3,1,3
+79,apartamento,Casa Amarela,R$ 330.000,50m²,2,1,1
+80,apartamento,Imbiribeira,R$ 525.000,55m²,2,2,1
+81,apartamento,Boa Viagem,R$ 900.000,297m²,5,4,3
+82,apartamento,Boa Viagem,R$ 409.287,30m²,1,1,1
+83,apartamento,Boa Viagem,R$ 450.000,55m²,2,2,2
+84,apartamento,Boa Viagem,R$ 900.000,255m²,3,3,3
+85,apartamento,Boa Viagem,R$ 250.000,90m²,3,2,1
+86,apartamento,Boa Viagem,R$ 1.069.000,90m²,3,1,2
+87,apartamento,Boa Viagem,R$ 2.600.000,384m²,4,5,2
+88,apartamento,Pina,R$ 450.000,74m²,3,1,1
+89,apartamento,Casa Amarela,R$ 530.000,82m²,3,3,2
+90,apartamento,Boa Viagem,R$ 680.000,64m²,3,2,2
+91,apartamento,Boa Viagem,R$ 650.000,69m²,3,3,2
+92,apartamento,Graças,R$ 624.989,53m²,2,2,1
+93,apartamento,Boa Viagem,R$ 800.000,108m²,3,1,2
+94,apartamento,Boa Viagem,R$ 630.000,71m²,2,2,1
+95,apartamento,Boa Viagem,R$ 443.267,59m²,3,2,1
+96,apartamento,Poço da Panela,R$ 1.017.469,134m²,4,5,2
+97,apartamento,Boa Viagem,R$ 890.000,92m²,3,2,2
+98,apartamento,Imbiribeira,R$ 285.400,27m²,1,1,1
+99,apartamento,Boa Viagem,R$ 3.191.643,152m²,4,1,3
+100,apartamento,Boa Viagem,R$ 299.431,29m²,1,1,1
+101,apartamento,Espinheiro,R$ 511.696,56m²,2,1,2
+102,apartamento,Torre,R$ 570.000,50m²,2,2,1
+103,apartamento,Madalena,R$ 480.000,57m²,2,2,1
+104,apartamento,Boa Viagem,R$ 560.000,123m²,3,3,1
+105,apartamento,Graças,R$ 1.200.000,146m²,4,6,2
+106,apartamento,Boa Viagem,R$ 1.290.000,138m²,4,6,2
+107,apartamento,Boa Viagem,R$ 853.311,86m²,3,2,2
+108,apartamento,Boa Viagem,R$ 350.000,100m²,3,3,1
+109,apartamento,Ilha do Retiro,R$ 1.514.094,135m²,4,2,2
+110,apartamento,Boa Viagem,R$ 2.100.000,170m²,4,5,3
+111,apartamento,Madalena,R$ 260.000,105m²,3,3,1
+112,apartamento,Boa Viagem,R$ 300.000,97m²,4,2,2
+113,apartamento,Boa Viagem,R$ 750.000,155m²,3,1,1
+114,apartamento,Torre,R$ 1.200.000,106m²,3,2,2
+115,apartamento,Monteiro,R$ 1.113.000,147m²,4,5,2
+116,apartamento,Boa Viagem,R$ 900.000,131m²,4,4,2
+117,apartamento,Santo Amaro,R$ 1.300.000,127m²,3,1,2
+118,apartamento,Boa Viagem,R$ 250.000,94m²,3,2,2
+119,apartamento,Boa Viagem,R$ 490.000,33m²,1,1,1
+120,apartamento,Boa Vista,R$ 369.000,57m²,2,2,1
+121,apartamento,Casa Forte,R$ 482.450,35m²,1,1,1
+122,apartamento,Aflitos,R$ 950.000,204m²,3,1,2
+123,apartamento,Pina,R$ 650.000,58m²,2,1,1
+124,apartamento,Ilha do Retiro,R$ 610.000,67m²,3,2,1
+125,apartamento,Tamarineira,R$ 1.400.000,260m²,4,1,3
+126,apartamento,Boa Viagem,R$ 500.000,74m²,3,3,1
+127,apartamento,Madalena,R$ 1.200.000,157m²,4,1,2
+128,apartamento,Boa Viagem,R$ 530.000,100m²,3,3,1
+129,apartamento,Boa Viagem,R$ 580.000,40m²,2,1,1
+130,apartamento,Madalena,R$ 620.000,115m²,3,3,2
+131,apartamento,Boa Viagem,R$ 1.500.000,182m²,4,4,2
+132,apartamento,Boa Viagem,R$ 635.000,80m²,3,1,2
+133,apartamento,Casa Amarela,R$ 530.000,82m²,3,3,2
+134,apartamento,Espinheiro,R$ 470.000,75m²,3,2,1
+135,apartamento,Afogados,R$ 180.000,75m²,2,1,1
+136,apartamento,Boa Vista,R$ 480.000,130m²,3,2,1
+137,apartamento,Boa Viagem,R$ 445.564,50m²,2,2,1
+138,apartamento,Pina,R$ 449.000,50m²,2,2,1
+139,apartamento,Graças,R$ 638.296,53m²,2,2,1
+140,apartamento,Casa Amarela,R$ 300.000,50m²,2,2,1
+141,apartamento,Boa Viagem,R$ 550.000,106m²,3,2,2
+142,apartamento,Boa Viagem,R$ 390.000,116m²,3,3,1
+143,apartamento,Boa Viagem,R$ 450.000,56m²,2,2,1
+144,apartamento,Boa Viagem,R$ 529.000,115m²,3,3,2
+145,apartamento,Boa Viagem,R$ 397.233,35m²,1,1,1
+146,apartamento,Boa Viagem,R$ 1.100.000,105m²,3,4,2
+147,apartamento,Tamarineira,R$ 1.300.000,124m²,4,6,2
+148,apartamento,Boa Viagem,R$ 4.000.000,304m²,3,5,3
+149,apartamento,Casa Forte,R$ 1.950.000,330m²,4,2,5
+150,apartamento,Boa Viagem,R$ 450.000,135m²,4,1,1
+151,apartamento,Boa Viagem,R$ 1.370.000,132m²,4,4,2
+152,apartamento,Boa Viagem,R$ 820.000,95m²,3,3,2
+153,apartamento,Pina,R$ 250.000,40m²,1,1,1
+154,apartamento,Casa Amarela,R$ 369.000,56m²,2,2,1
+155,apartamento,Graças,R$ 560.000,117m²,3,2,2
+156,apartamento,Madalena,R$ 475.000,50m²,2,3,1
+157,apartamento,Boa Viagem,R$ 600.000,126m²,3,3,2
+158,apartamento,Imbiribeira,R$ 299.000,53m²,2,2,1
+159,apartamento,Rosarinho,R$ 1.150.000,125m²,4,3,2
+160,apartamento,Boa Viagem,R$ 470.000,74m²,3,3,1
+161,apartamento,Campina do Barreto,R$ 250.000,51m²,2,1,1
+162,apartamento,Casa Amarela,R$ 411.180,50m²,2,2,1
+163,apartamento,Tamarineira,R$ 730.000,107m²,3,1,3
+164,apartamento,Encruzilhada,R$ 635.000,87m²,3,1,2
+165,apartamento,Boa Viagem,R$ 1.580.000,137m²,4,4,2
+166,apartamento,Torre,R$ 860.000,97m²,3,2,2
+167,apartamento,Boa Viagem,R$ 450.000,151m²,3,2,1
+168,apartamento,Campo Grande,R$ 470.000,63m²,3,2,1
+169,apartamento,Boa Viagem,R$ 2.500.000,317m²,4,6,3
+170,apartamento,Boa Viagem,R$ 360.000,79m²,3,2,1
+171,apartamento,Boa Viagem,R$ 450.000,140m²,3,3,1
+172,apartamento,Boa Viagem,R$ 380.000,92m²,3,2,1
+173,apartamento,Barro,R$ 340.000,61m²,3,1,1
+174,apartamento,Boa Viagem,R$ 326.000,32m²,1,1,1
+175,apartamento,Boa Viagem,R$ 1.120.000,154m²,4,4,3
+176,apartamento,Boa Viagem,R$ 425.000,111m²,3,4,1
+177,apartamento,Boa Viagem,R$ 650.000,136m²,3,3,2
+178,apartamento,Graças,R$ 380.000,120m²,3,3,1
+179,apartamento,Pina,R$ 741.218,79m²,3,3,1
+180,apartamento,Ilha do Retiro,R$ 260.000,120m²,2,3,1
+181,apartamento,Boa Vista,R$ 285.000,55m²,1,1,1
+182,apartamento,Encruzilhada,R$ 429.300,58m²,2,1,1
+183,apartamento,Boa Viagem,R$ 850.000,174m²,4,3,2
+184,apartamento,Boa Vista,R$ 374.400,48m²,2,2,1
+185,apartamento,Aflitos,R$ 850.000,132m²,4,3,2
+186,apartamento,Boa Viagem,R$ 520.000,60m²,2,2,1
+187,apartamento,Boa Viagem,R$ 499.000,100m²,3,3,1
+188,apartamento,Monteiro,R$ 1.070.000,288m²,4,3,2
+189,apartamento,Casa Amarela,R$ 660.000,82m²,3,2,2
+190,apartamento,Boa Viagem,R$ 1.619.327,163m²,4,3,3
+191,apartamento,Madalena,R$ 468.000,48m²,2,2,1
+192,apartamento,Jaqueira,R$ 850.000,144m²,4,2,2
+193,apartamento,Monteiro,R$ 640.000,80m²,3,2,2
+194,apartamento,Imbiribeira,R$ 289.000,45m²,2,2,1
+195,apartamento,Espinheiro,R$ 750.000,204m²,4,1,2
+196,apartamento,Casa Forte,R$ 1.300.000,241m²,4,1,3
+197,apartamento,Encruzilhada,R$ 350.000,63m²,3,2,1
+198,apartamento,Parnamirim,R$ 600.000,34m²,1,1,1
+199,apartamento,Cordeiro,R$ 230.000,77m²,2,2,1
+200,apartamento,Boa Viagem,R$ 390.000,73m²,2,2,1
+201,apartamento,Boa Viagem,R$ 434.480,95m²,2,2,1
+202,apartamento,Boa Viagem,R$ 606.262,58m²,2,1,1
+203,apartamento,Torre,R$ 2.000.000,204m²,4,5,3
+204,apartamento,Boa Viagem,R$ 2.500.000,193m²,4,5,3
+205,apartamento,Boa Viagem,R$ 1.450.000,182m²,4,4,2
+206,apartamento,Casa Amarela,R$ 580.000,71m²,3,3,1
+207,apartamento,Encruzilhada,R$ 364.000,57m²,2,1,1
+208,apartamento,Casa Amarela,R$ 1.524.764,141m²,3,4,2
+209,apartamento,Caxangá,R$ 310.000,54m²,2,1,1
+210,apartamento,Casa Amarela,R$ 333.528,42m²,2,1,1
+211,apartamento,Boa Viagem,R$ 1.800.000,138m²,4,2,2
+212,apartamento,Boa Viagem,R$ 1.370.000,126m²,4,4,2
+213,apartamento,Casa Amarela,R$ 490.000,10m²,3,1,1
+214,apartamento,Madalena,R$ 230.000,69m²,3,2,1
+215,apartamento,Tamarineira,R$ 730.000,107m²,4,4,3
+216,apartamento,Boa Viagem,R$ 1.530.000,140m²,4,1,1
+217,apartamento,Espinheiro,R$ 650.000,228m²,3,3,2
+218,apartamento,Madalena,R$ 390.000,79m²,3,3,1
+219,apartamento,Boa Viagem,R$ 420.000,59m²,2,1,1
+220,apartamento,Espinheiro,R$ 682.000,95m²,3,1,2
+221,apartamento,Boa Viagem,R$ 220.000,29m²,1,1,1
+222,apartamento,Santo Amaro,R$ 280.000,52m²,1,1,1
+223,apartamento,Boa Viagem,R$ 905.000,98m²,3,3,2
+224,apartamento,Boa Viagem,R$ 894.562,52m²,1,1,1
+225,apartamento,Boa Vista,R$ 585.000,61m²,2,3,2
+226,apartamento,Casa Forte,R$ 1.800.000,289m²,10,12,1
+227,apartamento,Pina,R$ 705.470,79m²,3,3,2
+228,apartamento,Pina,R$ 1.234.931,74m²,1,1,1
+229,apartamento,Graças,R$ 1.080.000,173m²,4,5,2
+230,apartamento,Campo Grande,R$ 350.000,47m²,2,2,1
+231,apartamento,Boa Viagem,R$ 210.000,70m²,2,2,1
+232,apartamento,Campo Grande,R$ 240.000,74m²,2,2,1
+233,apartamento,Casa Amarela,R$ 369.000,57m²,2,2,1
+234,apartamento,Espinheiro,R$ 490.000,88m²,3,1,2
+235,apartamento,Boa Viagem,R$ 220.000,45m²,2,1,1
+236,apartamento,Tamarineira,R$ 739.000,93m²,3,3,2
+237,apartamento,Rosarinho,R$ 410.000,75m²,3,3,1
+238,apartamento,Encruzilhada,R$ 380.000,63m²,3,1,1
+239,apartamento,Madalena,R$ 280.000,40m²,1,1,1
+240,apartamento,Casa Forte,R$ 575.000,98m²,4,2,1
+241,apartamento,Rosarinho,R$ 991.208,84m²,3,3,2
+242,apartamento,Casa Forte,R$ 450.000,60m²,2,3,1
+243,apartamento,Boa Viagem,R$ 500.000,120m²,3,3,2
+244,apartamento,Boa Viagem,R$ 450.000,112m²,3,2,1
+245,apartamento,Ilha do Retiro,R$ 360.000,61m²,3,2,1
+246,apartamento,Tamarineira,R$ 1.500.000,276m²,4,5,3
+247,apartamento,Graças,R$ 950.000,143m²,4,3,2
+248,apartamento,Ilha do Retiro,R$ 1.600.000,135m²,4,1,2
+249,apartamento,Tamarineira,R$ 1.300.000,217m²,4,4,3
+250,apartamento,Graças,R$ 265.000,10m²,1,1,1
+251,apartamento,Boa Viagem,R$ 950.000,137m²,3,3,2
+252,apartamento,Boa Viagem,R$ 340.000,62m²,2,2,1
+253,apartamento,Madalena,R$ 1.500.000,139m²,3,1,2
+254,apartamento,Boa Viagem,R$ 420.000,70m²,3,2,1
+255,apartamento,Boa Viagem,R$ 370.000,63m²,2,2,1
+256,apartamento,Espinheiro,R$ 750.000,200m²,4,4,2
+257,apartamento,Tejipió,R$ 210.000,67m²,3,2,1
+258,apartamento,Pina,R$ 420.000,50m²,2,1,1
+259,apartamento,Boa Viagem,R$ 525.000,102m²,3,3,2
+260,apartamento,Graças,R$ 1.400.000,257m²,4,5,3
+261,apartamento,Boa Viagem,R$ 380.000,64m²,2,2,1
+262,apartamento,Boa Viagem,R$ 1.250.000,189m²,4,4,3
+263,apartamento,Madalena,R$ 652.000,42m²,1,1,1
+264,apartamento,Boa Viagem,R$ 260.000,32m²,1,1,1
+265,apartamento,Pina,R$ 340.000,90m²,3,2,1
+266,apartamento,Boa Viagem,R$ 330.000,40m²,1,1,1
+267,apartamento,Parnamirim,R$ 2.980.000,430m²,4,5,5
+268,apartamento,Graças,R$ 1.480.000,124m²,4,5,2
+269,apartamento,Derby,R$ 520.000,151m²,3,1,1
+270,apartamento,Boa Viagem,R$ 1.020.000,183m²,4,3,1
+271,apartamento,Pina,R$ 140.000,40m²,1,1,1
+272,apartamento,Casa Amarela,R$ 585.000,80m²,3,3,2
+273,apartamento,Graças,R$ 750.000,130m²,3,3,2
+274,apartamento,Boa Viagem,R$ 450.000,54m²,2,1,1
+275,apartamento,Boa Viagem,R$ 1.400.000,149m²,3,4,2
+276,apartamento,Boa Viagem,R$ 8.500.000,322m²,4,5,5
+277,apartamento,Ilha do Retiro,R$ 1.200.000,152m²,4,1,3
+278,apartamento,Boa Viagem,R$ 1.300.000,146m²,4,1,2
+279,apartamento,Boa Viagem,R$ 690.000,160m²,4,3,2
+280,apartamento,Boa Viagem,R$ 290.000,30m²,1,1,1
+281,apartamento,Boa Viagem,R$ 399.000,75m²,3,1,1
+282,apartamento,Boa Viagem,R$ 490.000,33m²,1,1,1
+283,apartamento,Casa Forte,R$ 300.000,49m²,2,1,1
+284,apartamento,Casa Forte,R$ 666.204,64m²,2,2,1
+285,apartamento,Poço da Panela,R$ 1.231.876,147m²,4,5,3
+286,apartamento,Boa Viagem,R$ 600.000,150m²,4,3,2
+287,apartamento,Encruzilhada,R$ 342.500,57m²,2,1,1
+288,apartamento,Pina,R$ 1.650.000,126m²,4,4,2
+289,apartamento,Graças,R$ 350.000,85m²,3,2,1
+290,apartamento,Casa Amarela,R$ 702.771,123m²,4,5,2
+291,apartamento,Graças,R$ 1.180.000,153m²,4,2,2
+292,apartamento,Graças,R$ 275.000,70m²,2,3,1
+293,apartamento,Boa Viagem,R$ 1.430.000,136m²,3,2,2
+294,apartamento,Pina,R$ 830.000,127m²,3,3,2
+295,apartamento,Boa Viagem,R$ 650.000,129m²,3,1,1
+296,apartamento,Boa Viagem,R$ 220.000,29m²,1,1,1
+297,apartamento,Casa Amarela,R$ 975.000,168m²,3,4,1
+298,apartamento,Boa Viagem,R$ 348.000,124m²,3,3,1
+299,apartamento,Graças,R$ 626.989,53m²,2,2,2
+300,apartamento,Boa Viagem,R$ 1.090.000,95m²,3,2,3
+301,apartamento,Encruzilhada,R$ 330.000,65m²,3,2,1
+302,apartamento,Santo Amaro,R$ 530.000,57m²,2,2,1
+303,apartamento,Boa Viagem,R$ 380.000,41m²,1,1,1
+304,apartamento,Pina,R$ 568.958,28m²,1,1,1
+305,apartamento,Boa Viagem,R$ 1.370.000,125m²,3,4,2
+306,apartamento,Rosarinho,R$ 400.000,68m²,3,2,2
+307,apartamento,Boa Viagem,R$ 970.000,157m²,4,3,2
+308,apartamento,Santo Amaro,R$ 490.000,56m²,2,2,1
+309,apartamento,Boa Viagem,R$ 650.000,120m²,4,4,2
+310,apartamento,Boa Viagem,R$ 580.000,82m²,3,3,2
+311,apartamento,Boa Viagem,R$ 620.000,63m²,3,2,2
+312,apartamento,Torre,R$ 350.000,54m²,2,1,1
+313,apartamento,Boa Viagem,R$ 1.200.000,130m²,4,4,2
+314,apartamento,Boa Viagem,R$ 1.050.000,170m²,3,1,2
+315,apartamento,Poço da Panela,R$ 687.911,68m²,3,2,1
+316,apartamento,Graças,R$ 560.000,66m²,3,2,1
+317,apartamento,Boa Viagem,R$ 855.000,89m²,3,1,2
+318,apartamento,Boa Viagem,R$ 1.230.119,93m²,3,2,2
+319,apartamento,Boa Viagem,R$ 650.000,116m²,3,4,2
+320,apartamento,Imbiribeira,R$ 395.000,63m²,3,2,1
+321,apartamento,Boa Viagem,R$ 500.000,106m²,3,2,1
+322,apartamento,Boa Viagem,R$ 700.000,236m²,4,4,2
+323,apartamento,Torre,R$ 340.000,44m²,2,1,1
+324,apartamento,Rosarinho,R$ 1.450.000,137m²,3,4,2
+325,apartamento,Madalena,R$ 630.000,100m²,3,3,2
+326,apartamento,Boa Viagem,R$ 295.000,75m²,2,3,1
+327,apartamento,Boa Viagem,R$ 1.450.000,180m²,4,4,2
+328,apartamento,Encruzilhada,R$ 390.000,63m²,3,1,1
+329,apartamento,Casa Amarela,R$ 660.000,96m²,3,3,2
+330,apartamento,Madalena,R$ 580.000,93m²,3,1,2
+331,apartamento,Boa Viagem,R$ 1.050.000,152m²,4,4,3
+332,apartamento,Encruzilhada,R$ 377.500,57m²,3,2,1
+333,apartamento,Boa Viagem,R$ 990.000,371m²,5,5,2
+334,apartamento,Boa Viagem,R$ 1.700.000,175m²,4,5,3
+335,apartamento,Casa Amarela,R$ 490.000,67m²,3,1,1
+336,apartamento,Madalena,R$ 1.549.000,132m²,4,3,2
+337,apartamento,Ilha do Retiro,R$ 1.300.000,132m²,4,4,3
+338,apartamento,Pina,R$ 1.500.000,124m²,3,4,2
+339,apartamento,Espinheiro,R$ 750.000,106m²,2,1,2
+340,apartamento,Pina,R$ 1.500.000,130m²,4,1,2
+341,apartamento,Boa Viagem,R$ 870.000,160m²,4,4,2
+342,apartamento,Boa Viagem,R$ 1.500.000,164m²,5,5,2
+343,apartamento,Madalena,R$ 540.000,60m²,3,3,2
+344,apartamento,Casa Forte,R$ 360.000,110m²,3,2,1
+345,apartamento,Boa Viagem,R$ 920.000,150m²,3,3,3
+346,apartamento,Boa Viagem,R$ 630.000,182m²,3,2,2
+347,apartamento,Boa Viagem,R$ 1.900.000,10m²,1,1,2
+348,apartamento,Casa Forte,R$ 460.000,68m²,2,3,1
+349,apartamento,Graças,R$ 740.000,115m²,3,3,2
+350,apartamento,Pina,R$ 420.000,50m²,2,1,1
+351,apartamento,Boa Viagem,R$ 1.600.000,140m²,3,4,4
+352,apartamento,Boa Viagem,R$ 245.000,70m²,3,3,1
+353,apartamento,Madalena,R$ 350.000,130m²,3,3,1
+354,apartamento,Parnamirim,R$ 1.010.209,94m²,3,2,2
+355,apartamento,Boa Viagem,R$ 420.000,69m²,3,2,1
+356,apartamento,Encruzilhada,R$ 480.000,67m²,2,2,1
+357,apartamento,Boa Viagem,R$ 899.000,91m²,3,3,2
+358,apartamento,Rosarinho,R$ 600.000,189m²,4,4,2
+359,apartamento,Boa Viagem,R$ 1.600.000,249m²,4,5,3
+360,apartamento,Zumbi,R$ 426.626,61m²,3,1,1
+361,apartamento,Pina,R$ 3.400.000,204m²,4,6,3
+362,apartamento,Pina,R$ 2.660.000,205m²,4,5,3
+363,apartamento,Boa Viagem,R$ 150.000,70m²,2,2,1
+364,apartamento,Boa Viagem,R$ 282.240,28m²,1,1,1
+365,apartamento,Boa Viagem,R$ 5.834.749,262m²,4,4,4
+366,apartamento,Boa Viagem,R$ 460.000,80m²,3,3,1
+367,apartamento,Pina,R$ 480.000,71m²,3,1,1
+368,apartamento,Boa Viagem,R$ 910.000,95m²,3,3,2
+369,apartamento,Caxangá,R$ 430.000,64m²,3,2,1
+370,apartamento,Casa Amarela,R$ 450.000,72m²,3,2,1
+371,apartamento,Boa Viagem,R$ 480.000,176m²,4,1,1
+372,apartamento,Boa Viagem,R$ 1.800.000,341m²,4,4,4
+373,apartamento,Casa Forte,R$ 663.281,84m²,3,3,2
+374,apartamento,Boa Viagem,R$ 850.000,60m²,1,2,1
+375,apartamento,Madalena,R$ 470.000,60m²,3,3,1
+376,apartamento,Boa Viagem,R$ 270.000,29m²,1,1,1
+377,apartamento,Boa Viagem,R$ 340.000,125m²,3,3,1
+378,apartamento,Parnamirim,R$ 900.000,155m²,5,2,2
+379,apartamento,Campo Grande,R$ 390.000,61m²,3,2,1
+380,apartamento,Boa Viagem,R$ 800.000,104m²,3,3,2
+381,apartamento,Madalena,R$ 1.300.000,187m²,3,4,3
+382,apartamento,Boa Viagem,R$ 650.000,77m²,3,3,1
+383,apartamento,Casa Forte,R$ 860.000,98m²,3,2,2
+384,apartamento,Boa Viagem,R$ 670.000,135m²,3,3,2
+385,apartamento,Boa Viagem,R$ 1.650.000,222m²,4,4,3
+386,apartamento,São José,R$ 2.400.000,226m²,4,6,4
+387,apartamento,Graças,R$ 1.500.000,262m²,4,4,3
+388,apartamento,Espinheiro,R$ 800.000,336m²,4,6,2
+389,apartamento,São José,R$ 2.500.000,242m²,4,6,3
+390,apartamento,Boa Viagem,R$ 350.000,115m²,3,3,1
+391,apartamento,Madalena,R$ 400.000,75m²,3,2,1
+392,apartamento,Graças,R$ 855.000,85m²,3,3,2
+393,apartamento,Espinheiro,R$ 495.000,81m²,2,2,2
+394,apartamento,Boa Viagem,R$ 750.000,110m²,3,3,2
+395,apartamento,Boa Viagem,R$ 1.350.000,135m²,4,5,2
+396,apartamento,Pina,R$ 1.150.000,155m²,3,4,3
+397,apartamento,Santana,R$ 3.073.000,199m²,4,2,4
+398,apartamento,Espinheiro,R$ 440.000,74m²,2,3,1
+399,apartamento,Campo Grande,R$ 348.000,46m²,2,2,1
+400,apartamento,Imbiribeira,R$ 1.530.000,120m²,4,4,2
+401,apartamento,Boa Viagem,R$ 1.160.000,95m²,4,3,2
+402,apartamento,Boa Viagem,R$ 370.000,118m²,3,3,1
+403,apartamento,Aflitos,R$ 850.000,132m²,4,1,2
+404,apartamento,Boa Viagem,R$ 850.000,107m²,3,3,2
+405,apartamento,Boa Viagem,R$ 800.000,160m²,3,2,3
+406,apartamento,Graças,R$ 1.500.000,236m²,4,3,3
+407,apartamento,Boa Viagem,R$ 3.500.000,441m²,6,7,3
+408,apartamento,Caxangá,R$ 417.620,53m²,2,2,1
+409,apartamento,Aflitos,R$ 600.000,76m²,3,3,1
+410,apartamento,Boa Viagem,R$ 630.605,63m²,3,2,1
+411,apartamento,Boa Viagem,R$ 2.500.000,165m²,3,5,2
+412,apartamento,Cordeiro,R$ 450.000,70m²,3,1,1
+413,apartamento,Boa Viagem,R$ 524.784,43m²,2,2,1
+414,apartamento,Casa Forte,R$ 930.000,204m²,3,4,2
+415,apartamento,Madalena,R$ 879.464,10m²,4,6,2
+416,apartamento,Torre,R$ 1.165.918,123m²,4,1,2
+417,apartamento,Imbiribeira,R$ 1.440.000,120m²,3,4,2
+418,apartamento,Caxangá,R$ 489.000,84m²,3,2,2
+419,apartamento,Casa Amarela,R$ 420.000,49m²,2,2,1
+420,apartamento,Graças,R$ 1.800.000,200m²,4,2,3
+421,apartamento,Boa Viagem,R$ 399.000,120m²,3,3,1
+422,apartamento,Boa Viagem,R$ 680.000,88m²,3,3,2
+423,apartamento,Ilha do Retiro,R$ 590.000,59m²,3,1,2
+424,apartamento,Boa Viagem,R$ 1.300.000,146m²,4,3,2
+425,apartamento,Graças,R$ 389.000,52m²,2,1,1
+426,apartamento,Cordeiro,R$ 510.000,105m²,3,1,2
+427,apartamento,Boa Viagem,R$ 1.599.000,159m²,3,2,2
+428,apartamento,Casa Forte,R$ 450.000,58m²,2,2,1
+429,apartamento,Aflitos,R$ 475.000,79m²,3,1,1
+430,apartamento,Madalena,R$ 515.000,62m²,2,2,2
+431,apartamento,Boa Viagem,R$ 750.000,110m²,3,3,2
+432,apartamento,Boa Viagem,R$ 340.000,73m²,2,2,1
+433,apartamento,Boa Viagem,R$ 920,147m²,3,3,2
+434,apartamento,Boa Viagem,R$ 1.100.000,99m²,3,2,2
+435,apartamento,Boa Viagem,R$ 980,125m²,4,5,3
+436,apartamento,Encruzilhada,R$ 460.000,61m²,3,2,2
+437,apartamento,Boa Viagem,R$ 470.000,65m²,2,3,1
+438,apartamento,Boa Viagem,R$ 750.000,97m²,3,1,2
+439,apartamento,Madalena,R$ 2.800.000,303m²,4,5,5
+440,apartamento,Várzea,R$ 190.000,66m²,2,2,1
+441,apartamento,San Martin,R$ 330.000,66m²,3,2,1
+442,apartamento,Graças,R$ 1.430.000,124m²,4,2,2
+443,apartamento,Santana,R$ 400.000,72m²,2,2,1
+444,apartamento,Rosarinho,R$ 420.000,147m²,3,1,2
+445,apartamento,Boa Viagem,R$ 710.000,109m²,3,4,2
+446,apartamento,Pina,R$ 380.000,57m²,2,2,1
+447,apartamento,Jardim São Paulo,R$ 320.250,49m²,2,1,1
+448,apartamento,Torreão,R$ 150.000,87m²,2,2,1
+449,apartamento,Encruzilhada,R$ 649.000,150m²,3,3,2
+450,apartamento,Boa Viagem,R$ 2.590.000,254m²,4,6,2
+451,apartamento,Boa Viagem,R$ 270.000,24m²,1,1,1
+452,apartamento,Encruzilhada,R$ 1.456.510,149m²,4,1,2
+453,apartamento,Madalena,R$ 300.000,157m²,3,2,1
+454,apartamento,Boa Viagem,R$ 1.300.000,154m²,4,1,3
+455,apartamento,Caxangá,R$ 430.000,65m²,3,1,1
+456,apartamento,Boa Viagem,R$ 290.000,45m²,2,1,1
+457,apartamento,Iputinga,R$ 190.000,6m²,3,2,1
+458,apartamento,Espinheiro,R$ 495.195,66m²,2,1,1
+459,apartamento,Casa Amarela,R$ 540.000,83m²,3,2,2
+460,apartamento,Boa Vista,R$ 650.000,222m²,4,3,2
+461,apartamento,Casa Forte,R$ 1.480.000,253m²,4,4,3
+462,apartamento,Madalena,R$ 354.000,46m²,2,2,1
+463,apartamento,Boa Viagem,R$ 1.200.000,229m²,6,5,2
+464,apartamento,Boa Viagem,R$ 450.000,51m²,1,1,1
+465,apartamento,Cordeiro,R$ 350.000,55m²,2,2,1
+466,apartamento,Boa Viagem,R$ 570.000,105m²,4,3,2
+467,apartamento,Torre,R$ 320.000,43m²,2,1,1
+468,apartamento,Boa Viagem,R$ 1.850.000,162m²,4,2,3
+469,apartamento,Boa Viagem,R$ 430.000,110m²,3,3,1
+470,apartamento,Bongi,R$ 285.000,55m²,2,2,1
+471,apartamento,Boa Viagem,R$ 539.000,108m²,3,2,1
+472,apartamento,Boa Viagem,R$ 788.385,86m²,3,2,2
+473,apartamento,Boa Viagem,R$ 3.800.000,175m²,4,5,3
+474,apartamento,Boa Viagem,R$ 916.835,86m²,3,3,2
+475,apartamento,Boa Viagem,R$ 550.000,118m²,3,2,1
+476,apartamento,Madalena,R$ 430.000,77m²,3,2,1
+477,apartamento,Boa Viagem,R$ 899.000,90m²,3,3,2
+478,apartamento,Espinheiro,R$ 577.000,63m²,3,2,2
+479,apartamento,Boa Viagem,R$ 390.000,98m²,3,1,1
+480,apartamento,Boa Viagem,R$ 1.450.000,132m²,4,2,1
+481,apartamento,Boa Viagem,R$ 750.000,110m²,3,3,2
+482,apartamento,Ilha do Retiro,R$ 1.250.000,135m²,4,2,2
+483,apartamento,Torre,R$ 350.000,60m²,2,2,1
+484,apartamento,Espinheiro,R$ 540.000,97m²,3,3,2
+485,apartamento,Boa Viagem,R$ 1.500.000,170m²,4,4,3
+486,apartamento,Aflitos,R$ 855.000,84m²,3,2,2
+487,apartamento,Casa Amarela,R$ 435.500,67m²,3,2,1
+488,apartamento,Rosarinho,R$ 950.000,140m²,4,1,2
+489,apartamento,Boa Viagem,R$ 450.581,64m²,3,1,1
+490,apartamento,Madalena,R$ 550.000,66m²,2,2,1
+491,apartamento,Boa Viagem,R$ 570.000,97m²,3,3,2
+492,apartamento,Graças,R$ 550.000,119m²,3,3,2
+493,apartamento,Boa Viagem,R$ 530.000,62m²,2,1,1
+494,apartamento,Pina,R$ 500.000,74m²,3,2,1
+495,apartamento,Boa Viagem,R$ 1.550.000,168m²,3,5,3
+496,apartamento,Casa Amarela,R$ 440.000,72m²,3,3,1
+497,apartamento,Cordeiro,R$ 400.000,70m²,3,2,1
+498,apartamento,Pina,R$ 600.000,87m²,2,3,1
+499,apartamento,Boa Viagem,R$ 1.400.000,155m²,4,5,3
+500,apartamento,Boa Viagem,R$ 1.150.000,106m²,3,4,2
+501,apartamento,Boa Viagem,R$ 1.552.649,163m²,4,2,3
+502,apartamento,Boa Viagem,R$ 1.260.000,10m²,4,1,3
+503,apartamento,Monteiro,R$ 1.579.000,139m²,4,3,2
+504,apartamento,Boa Viagem,R$ 650.000,136m²,3,3,2
+505,apartamento,Graças,R$ 600.000,98m²,3,3,2
+506,apartamento,Boa Viagem,R$ 830.000,97m²,3,3,2
+507,apartamento,Boa Viagem,R$ 430.000,67m²,3,3,1
+508,apartamento,Campo Grande,R$ 280.000,76m²,3,2,1
+509,apartamento,Casa Forte,R$ 350.000,49m²,2,1,1
+510,apartamento,Espinheiro,R$ 471.614,66m²,3,2,1
+511,apartamento,Ilha do Retiro,R$ 1.400.000,166m²,4,1,3
+512,apartamento,Santana,R$ 950.000,250m²,4,4,3
+513,apartamento,Boa Viagem,R$ 580.000,265m²,4,5,1
+514,apartamento,Imbiribeira,R$ 247.250,40m²,2,1,1
+515,apartamento,Ilha do Retiro,R$ 610.000,67m²,3,1,1
+516,apartamento,Boa Viagem,R$ 290.000,32m²,1,1,1
+517,apartamento,Madalena,R$ 425.000,45m²,2,2,1
+518,apartamento,Boa Viagem,R$ 441.048,51m²,2,2,1
+519,apartamento,Boa Viagem,R$ 1.400.000,148m²,4,4,2
+520,apartamento,Iputinga,R$ 325.900,51m²,2,2,1
+521,apartamento,Boa Viagem,R$ 1.250.000,156m²,3,4,1
+522,apartamento,Boa Viagem,R$ 750.000,90m²,2,1,1
+523,apartamento,Tamarineira,R$ 575.000,165m²,3,3,2
+524,apartamento,Boa Viagem,R$ 1.250.000,226m²,4,4,2
+525,apartamento,Madalena,R$ 651.000,58m²,2,2,1
+526,apartamento,Espinheiro,R$ 265.000,114m²,3,3,1
+527,apartamento,Boa Viagem,R$ 1.800.000,210m²,4,4,2
+528,apartamento,Boa Viagem,R$ 564.000,94m²,3,2,2
+529,apartamento,Boa Viagem,R$ 1.370.000,125m²,4,2,2
+530,apartamento,Boa Viagem,R$ 370.000,158m²,3,2,1
+531,apartamento,Casa Forte,R$ 717.303,54m²,2,1,1
+532,apartamento,Madalena,R$ 767.000,95m²,3,1,1
+533,apartamento,Boa Viagem,R$ 420.000,49m²,1,1,1
+534,apartamento,Poço da Panela,R$ 760.000,120m²,3,3,2
+535,apartamento,Boa Viagem,R$ 1.480.000,132m²,4,6,2
+536,apartamento,Torre,R$ 350.000,42m²,2,2,1
+537,apartamento,Graças,R$ 1.470.000,152m²,3,2,2
+538,apartamento,Boa Viagem,R$ 779.480,72m²,2,1,1
+539,apartamento,Pina,R$ 1.489.413,130m²,4,1,2
+540,apartamento,Boa Viagem,R$ 1.600.000,170m²,3,3,1
+541,apartamento,Boa Viagem,R$ 570.000,60m²,2,2,1
+542,apartamento,Boa Viagem,R$ 520.000,50m²,2,1,1
+543,apartamento,Boa Viagem,R$ 650.000,197m²,4,2,2
+544,apartamento,Madalena,R$ 570.000,10m²,4,2,2
+545,apartamento,Boa Viagem,R$ 920.000,202m²,4,3,2
+546,apartamento,Ilha do Retiro,R$ 1.750.000,201m²,4,4,3
+547,apartamento,Torre,R$ 800.000,900m²,3,3,2
+548,apartamento,Rosarinho,R$ 890.000,95m²,3,3,2
+549,apartamento,Encruzilhada,R$ 430.000,58m²,3,2,1
+550,apartamento,Parnamirim,R$ 580.000,126m²,3,3,1
+551,apartamento,Aflitos,R$ 360.000,64m²,2,2,1
+552,apartamento,Boa Viagem,R$ 320.000,91m²,2,3,1
+553,apartamento,Casa Forte,R$ 480.000,165m²,4,3,2
+554,apartamento,Boa Viagem,R$ 1.069.000,90m²,3,1,2
+555,apartamento,Boa Viagem,R$ 465.000,68m²,3,2,1
+556,apartamento,Boa Viagem,R$ 1.200.000,200m²,4,5,3
+557,apartamento,Poço da Panela,R$ 1.100.000,135m²,4,2,2
+558,apartamento,São José,R$ 327.776,35m²,1,1,1
+559,apartamento,Boa Viagem,R$ 1.300.000,94m²,3,3,2
+560,apartamento,Torre,R$ 430.000,62m²,3,3,2
+561,apartamento,Cordeiro,R$ 260.000,100m²,3,1,1
+562,apartamento,Boa Vista,R$ 360.000,45m²,2,1,1
+563,apartamento,Boa Viagem,R$ 2.700.000,147m²,2,3,3
+564,apartamento,Parnamirim,R$ 998.000,155m²,4,2,2
+565,apartamento,Torre,R$ 550.000,89m²,3,2,2
+566,apartamento,Encruzilhada,R$ 389.000,60m²,2,1,1
+567,apartamento,Ilha do Retiro,R$ 610.000,67m²,3,2,1
+568,apartamento,Boa Viagem,R$ 1.050.000,120m²,3,3,2
+569,apartamento,Casa Amarela,R$ 380.000,57m²,2,2,1
+570,apartamento,Boa Viagem,R$ 565.782,59m²,2,2,1
+571,apartamento,Boa Viagem,R$ 800.000,207m²,4,5,2
+572,apartamento,Boa Viagem,R$ 449.197,59m²,3,1,1
+573,apartamento,Parnamirim,R$ 329.000,49m²,2,1,1
+574,apartamento,Boa Viagem,R$ 531.752,57m²,3,2,1
+575,apartamento,Prado,R$ 300.000,61m²,3,2,1
+576,apartamento,Madalena,R$ 560.000,198m²,4,3,2
+577,apartamento,Prado,R$ 300.000,61m²,3,2,1
+578,apartamento,Prado,R$ 460.000,58m²,3,2,1
+579,apartamento,Boa Viagem,R$ 180.000,40m²,1,1,1
+580,apartamento,Boa Viagem,R$ 1.350.000,147m²,4,2,2
+581,apartamento,Pina,R$ 1.002.000,79m²,3,1,1
+582,apartamento,Madalena,R$ 350.000,69m²,2,2,1
+583,apartamento,Madalena,R$ 330.000,44m²,2,2,1
+584,apartamento,Pina,R$ 550.000,72m²,3,3,1
+585,apartamento,Graças,R$ 624.989,53m²,2,1,1
+586,apartamento,Boa Viagem,R$ 250.000,29m²,1,1,1
+587,apartamento,Torre,R$ 420.000,102m²,3,3,1
+588,apartamento,Tamarineira,R$ 460.000,50m²,2,2,1
+589,apartamento,Parnamirim,R$ 952.192,94m²,3,2,2
+590,apartamento,Casa Amarela,R$ 690.000,99m²,3,3,2
+591,apartamento,Boa Viagem,R$ 620.000,104m²,3,1,2
+592,apartamento,Parnamirim,R$ 400.000,34m²,1,1,1
+593,apartamento,Imbiribeira,R$ 259.000,44m²,2,1,1
+594,apartamento,Iputinga,R$ 170.000,59m²,2,1,1
+595,apartamento,Madalena,R$ 1.008.367,153m²,4,5,2
+596,apartamento,Casa Amarela,R$ 400.000,58m²,2,3,1
+597,apartamento,Graças,R$ 297.000,32m²,1,1,1
+598,apartamento,Boa Vista,R$ 382.800,41m²,1,1,1
+599,apartamento,Boa Viagem,R$ 480.000,103m²,3,3,2
+600,apartamento,São José,R$ 470.000,35m²,1,1,1
+601,apartamento,Campo Grande,R$ 330.000,46m²,2,2,1
+602,apartamento,Rosarinho,R$ 570.000,67m²,3,2,1
+603,apartamento,Encruzilhada,R$ 367.500,57m²,3,2,1
+604,apartamento,Encruzilhada,R$ 449.904,63m²,2,2,1
+605,apartamento,Madalena,R$ 715.000,98m²,3,3,2
+606,apartamento,Madalena,R$ 300.000,39m²,1,1,1
+607,apartamento,Madalena,R$ 771.887,90m²,3,1,1
+608,apartamento,Boa Viagem,R$ 360.000,60m²,2,1,1
+609,apartamento,Pina,R$ 1.405.814,130m²,4,2,2
+610,apartamento,Graças,R$ 680.000,91m²,3,3,2
+611,apartamento,Boa Viagem,R$ 600.000,80m²,3,2,2
+612,apartamento,Boa Viagem,R$ 350.000,102m²,3,2,2
+613,apartamento,Pina,R$ 425.000,48m²,2,1,1
+614,apartamento,Torre,R$ 335.000,52m²,2,1,1
+615,apartamento,Boa Viagem,R$ 350.000,90m²,3,1,1
+616,apartamento,Rosarinho,R$ 470.000,54m²,2,1,1
+617,apartamento,Boa Viagem,R$ 600.000,53m²,2,2,1
+618,apartamento,Casa Amarela,R$ 559.000,80m²,3,3,2
+619,apartamento,Boa Viagem,R$ 680.000,174m²,3,1,2
+620,apartamento,Boa Viagem,R$ 3.200.000,408m²,4,6,4
+621,apartamento,Espinheiro,R$ 540.000,82m²,3,3,2
+622,apartamento,Parnamirim,R$ 1.450.000,226m²,4,4,4
+623,apartamento,Pina,R$ 439.000,67m²,3,2,1
+624,apartamento,Parnamirim,R$ 350.000,65m²,2,2,1
+625,apartamento,Pina,R$ 1.266.252,39m²,1,1,1
+626,apartamento,Encruzilhada,R$ 349.500,57m²,2,1,1
+627,apartamento,Madalena,R$ 409.000,59m²,3,2,1
+628,apartamento,Torre,R$ 1.150.000,123m²,4,4,2
+629,apartamento,Madalena,R$ 785.000,85m²,3,1,2
+630,apartamento,Paissandu,R$ 250.000,85m²,3,2,2
+631,apartamento,Madalena,R$ 1.070.282,153m²,4,2,2
+632,apartamento,Boa Viagem,R$ 580.000,83m²,3,2,2
+633,apartamento,Graças,R$ 1.800.000,200m²,4,3,3
+634,apartamento,Boa Viagem,R$ 330.000,86m²,2,1,1
+635,apartamento,Boa Viagem,R$ 600.000,110m²,3,2,2
+636,apartamento,Casa Amarela,R$ 499.000,78m²,3,3,1
+637,apartamento,Boa Viagem,R$ 465.000,115m²,3,1,1
+638,apartamento,Boa Viagem,R$ 1.900.000,235m²,4,4,2
+639,apartamento,Encruzilhada,R$ 210.000,58m²,2,2,1
+640,apartamento,Madalena,R$ 1.200.000,122m²,4,3,3
+641,apartamento,Poço da Panela,R$ 1.650.000,192m²,3,4,3
+642,apartamento,Boa Viagem,R$ 980.000,176m²,4,3,2
+643,apartamento,Jaqueira,R$ 3.700.000,312m²,5,7,4
+644,apartamento,Tamarineira,R$ 239.189,43m²,2,1,1
+645,apartamento,Boa Viagem,R$ 740.000,135m²,4,4,2
+646,apartamento,Boa Viagem,R$ 590.000,113m²,3,1,1
+647,apartamento,Graças,R$ 1.450.000,160m²,4,5,2
+648,apartamento,Imbiribeira,R$ 300.000,45m²,2,1,1
+649,apartamento,Boa Viagem,R$ 1.350.000,124m²,4,2,2
+650,apartamento,Pina,R$ 429.000,67m²,3,1,1
+651,apartamento,Madalena,R$ 504.783,60m²,2,1,1
+652,apartamento,Boa Viagem,R$ 590.000,152m²,3,3,2
+653,apartamento,Boa Viagem,R$ 630.000,69m²,3,2,2
+654,apartamento,Boa Viagem,R$ 430.000,76m²,3,2,1
+655,apartamento,Pina,R$ 430.000,68m²,3,1,1
+656,apartamento,Madalena,R$ 415.000,65m²,3,2,1
+657,apartamento,Boa Vista,R$ 230.000,85m²,3,2,1
+658,apartamento,Tamarineira,R$ 720.000,125m²,3,1,2
+659,apartamento,Pina,R$ 378.000,35m²,1,1,1
+660,apartamento,Boa Viagem,R$ 650.000,157m²,3,1,1
+661,apartamento,Casa Forte,R$ 330.000,35m²,1,1,1
+662,apartamento,Monteiro,R$ 2.400.000,208m²,4,2,4
+663,apartamento,Apipucos,R$ 1.142.493,140m²,4,1,2
+664,apartamento,Boa Viagem,R$ 350.000,70m²,1,2,1
+665,apartamento,Boa Viagem,R$ 550.000,108m²,3,3,1
+666,apartamento,São José,R$ 500.000,34m²,1,1,1
+667,apartamento,Boa Viagem,R$ 1.600.000,132m²,4,2,2
+668,apartamento,Pina,R$ 741.217,79m²,3,2,1
+669,apartamento,Boa Viagem,R$ 500.000,112m²,3,3,1
+670,apartamento,Ilha do Retiro,R$ 1.126.789,135m²,4,4,2
+671,apartamento,Boa Viagem,R$ 1.400.000,91m²,3,3,2
+672,apartamento,Boa Viagem,R$ 791.700,95m²,3,2,2
+673,apartamento,Tamarineira,R$ 480.000,110m²,3,3,1
+674,apartamento,Encruzilhada,R$ 945.000,113m²,4,1,2
+675,apartamento,Madalena,R$ 713.500,88m²,3,1,2
+676,apartamento,Boa Viagem,R$ 632.404,57m²,2,1,1
+677,apartamento,Iputinga,R$ 275.000,53m²,2,1,1
+678,apartamento,Casa Forte,R$ 435.000,58m²,2,2,1
+679,apartamento,Boa Viagem,R$ 900.000,160m²,3,2,2
+680,apartamento,Boa Viagem,R$ 320.000,102m²,3,2,2
+681,apartamento,Boa Viagem,R$ 750.000,90m²,3,2,1
+682,apartamento,Boa Viagem,R$ 590.000,196m²,3,1,2
+683,apartamento,Torre,R$ 210.000,87m²,2,1,1
+684,apartamento,Brasília Teimosa,R$ 3.424.457,268m²,4,2,4
+685,apartamento,Parnamirim,R$ 2.980.000,430m²,4,2,5
+686,apartamento,Aflitos,R$ 850.000,132m²,4,3,2
+687,apartamento,Parnamirim,R$ 2.980.000,430m²,4,3,5
+688,apartamento,Espinheiro,R$ 414.126,54m²,2,2,1
+689,apartamento,Boa Viagem,R$ 220.000,45m²,2,1,1
+690,apartamento,Boa Viagem,R$ 750.000,154m²,3,4,2
+691,apartamento,Boa Viagem,R$ 480.000,55m²,2,1,1
+692,apartamento,Pina,R$ 470.000,72m²,3,2,1
+693,apartamento,Boa Viagem,R$ 570.000,115m²,3,3,1
+694,apartamento,Tamarineira,R$ 570.000,66m²,3,2,1
+695,apartamento,Parnamirim,R$ 700.000,128m²,3,3,1
+696,apartamento,Poço da Panela,R$ 335.000,49m²,2,1,1
+697,apartamento,Madalena,R$ 374.000,46m²,2,2,1
+698,apartamento,Torreão,R$ 472.145,56m²,2,2,1
+699,apartamento,Pina,R$ 1.800.000,160m²,2,4,2
+700,apartamento,Pina,R$ 793.800,81m²,3,3,2
+701,apartamento,Aflitos,R$ 550.000,110m²,3,3,1
+702,apartamento,Imbiribeira,R$ 375.000,63m²,3,2,1
+703,apartamento,Boa Viagem,R$ 1.490.000,137m²,4,5,2
+704,apartamento,Poço da Panela,R$ 820.000,88m²,2,2,2
+705,apartamento,Parnamirim,R$ 1.300.000,270m²,4,4,3
+706,apartamento,Boa Viagem,R$ 562.530,33m²,1,1,1
+707,apartamento,Boa Viagem,R$ 470.000,55m²,2,2,1
+708,apartamento,Iputinga,R$ 315.500,56m²,2,1,1
+709,apartamento,Madalena,R$ 707.000,88m²,3,1,1
+710,apartamento,Boa Vista,R$ 253.315,29m²,1,1,1
+711,apartamento,Pina,R$ 455.000,71m²,3,1,1
+712,apartamento,Madalena,R$ 330.000,77m²,3,2,1
+713,apartamento,Madalena,R$ 330.000,140m²,2,2,1
+714,apartamento,Boa Viagem,R$ 450.000,90m²,3,2,1
+715,apartamento,Boa Viagem,R$ 3.900.000,360m²,4,6,3
+716,apartamento,Boa Viagem,R$ 540.000,114m²,4,3,2
+717,apartamento,Pina,R$ 2.098.200,152m²,4,4,1
+718,apartamento,Madalena,R$ 490.000,60m²,3,3,2
+719,apartamento,Boa Viagem,R$ 1.300.000,135m²,4,4,2
+720,apartamento,Graças,R$ 1.200.000,126m²,3,1,2
+721,apartamento,Boa Viagem,R$ 970.000,125m²,4,1,2
+722,apartamento,Casa Forte,R$ 950.000,10m²,4,1,2
+723,apartamento,Espinheiro,R$ 500.000,10m²,3,1,2
+724,apartamento,Rosarinho,R$ 1.350.000,132m²,4,3,2
+725,apartamento,Pina,R$ 900.000,82m²,3,3,2
+726,apartamento,Casa Forte,R$ 450.000,72m²,3,1,1
+727,apartamento,Boa Viagem,R$ 1.350.000,137m²,3,5,2
+728,apartamento,Iputinga,R$ 360.000,56m²,2,1,1
+729,apartamento,Casa Forte,R$ 1.400.000,253m²,4,3,2
+730,apartamento,Imbiribeira,R$ 247.250,40m²,2,1,1
+731,apartamento,Boa Viagem,R$ 1.350.000,146m²,4,4,2
+732,apartamento,Boa Viagem,R$ 480.000,60m²,2,2,1
+733,apartamento,Boa Viagem,R$ 1.098.000,225m²,4,4,3
+734,apartamento,Espinheiro,R$ 493.000,81m²,3,1,2
+735,apartamento,Pina,R$ 1.600.000,127m²,4,4,2
+736,apartamento,Boa Viagem,R$ 525.000,102m²,3,3,2
+737,apartamento,Boa Viagem,R$ 1.700.000,320m²,4,4,3
+738,apartamento,Encruzilhada,R$ 399.000,65m²,3,2,1
+739,apartamento,Espinheiro,R$ 800.000,163m²,3,2,2
+740,apartamento,Boa Viagem,R$ 390.000,95m²,3,3,1
+741,apartamento,Parnamirim,R$ 1.000.000,94m²,3,3,2
+742,apartamento,Imbiribeira,R$ 1.600.000,140m²,4,4,2
+743,apartamento,Boa Viagem,R$ 440.000,58m²,3,2,1
+744,apartamento,Casa Forte,R$ 3.200.000,326m²,4,4,5
+745,apartamento,Boa Viagem,R$ 480.000,80m²,3,3,1
+746,apartamento,Espinheiro,R$ 750.000,204m²,4,1,2
+747,apartamento,Imbiribeira,R$ 220.000,65m²,2,2,1
+748,apartamento,Boa Viagem,R$ 405.000,73m²,2,2,1
+749,apartamento,Madalena,R$ 665.000,76m²,3,2,3
+750,apartamento,Boa Viagem,R$ 550.000,64m²,2,1,1
+751,apartamento,Encruzilhada,R$ 364.900,58m²,2,1,1
+752,apartamento,Casa Forte,R$ 1.004.632,122m²,4,4,3
+753,apartamento,Rosarinho,R$ 410.000,74m²,3,3,1
+754,apartamento,Boa Viagem,R$ 945.000,94m²,3,3,2
+755,apartamento,Boa Viagem,R$ 1.100.000,99m²,3,3,2
+756,apartamento,Boa Viagem,R$ 1.619.327,163m²,4,1,3
+757,apartamento,Madalena,R$ 415.000,65m²,3,2,1
+758,apartamento,Madalena,R$ 280.000,45m²,1,1,1
+759,apartamento,Torre,R$ 450.000,62m²,3,2,2
+760,apartamento,Campo Grande,R$ 342.000,52m²,2,2,1
+761,apartamento,Boa Viagem,R$ 910.000,95m²,3,3,2
+762,apartamento,Tamarineira,R$ 406.000,51m²,2,2,1
+763,apartamento,Boa Viagem,R$ 1.180.000,180m²,4,2,2
+764,apartamento,Boa Viagem,R$ 990.000,106m²,3,1,2
+765,apartamento,São José,R$ 2.999.900,262m²,4,5,4
+766,apartamento,Boa Viagem,R$ 450.000,115m²,3,3,2
+767,apartamento,Boa Viagem,R$ 1.400.000,167m²,4,5,3
+768,apartamento,Boa Viagem,R$ 1.200.000,150m²,4,3,2
+769,apartamento,Espinheiro,R$ 1.100.000,113m²,3,4,2
+770,apartamento,Espinheiro,R$ 350.000,100m²,3,3,1
+771,apartamento,Madalena,R$ 450.000,71m²,3,3,1
+772,apartamento,Imbiribeira,R$ 299.000,97m²,3,1,1
+773,apartamento,Boa Viagem,R$ 415.000,63m²,3,2,1
+774,apartamento,Boa Vista,R$ 320.000,130m²,3,3,1
+775,apartamento,Boa Viagem,R$ 640.000,83m²,3,3,2
+776,apartamento,Rosarinho,R$ 420.000,73m²,3,2,1
+777,apartamento,Rosarinho,R$ 480.000,85m²,3,3,3
+778,apartamento,Boa Viagem,R$ 2.600.000,240m²,4,6,4
+779,apartamento,Boa Viagem,R$ 770.000,110m²,3,3,2
+780,apartamento,Casa Amarela,R$ 490.000,67m²,3,2,1
+781,apartamento,Boa Viagem,R$ 590.000,123m²,3,2,1
+782,apartamento,Boa Viagem,R$ 1.500.000,156m²,4,5,4
+783,apartamento,Boa Viagem,R$ 954.073,103m²,3,3,2
+784,apartamento,Ilha do Retiro,R$ 550.000,67m²,3,2,1
+785,apartamento,Casa Amarela,R$ 265.500,33m²,1,1,1
+786,apartamento,Pina,R$ 1.500.000,155m²,4,5,3
+787,apartamento,Santana,R$ 350.000,40m²,1,1,1
+788,apartamento,Boa Viagem,R$ 340.000,60m²,2,1,1
+789,apartamento,Madalena,R$ 299.550,36m²,1,1,1
+790,apartamento,Madalena,R$ 427.289,60m²,3,1,1
+791,apartamento,Boa Viagem,R$ 280.000,77m²,2,1,1
+792,apartamento,Boa Viagem,R$ 1.600.000,248m²,4,5,3
+793,apartamento,Tamarineira,R$ 830.000,144m²,4,3,2
+794,apartamento,Madalena,R$ 1.800.000,350m²,4,5,3
+795,apartamento,Boa Viagem,R$ 640.000,86m²,3,3,2
+796,apartamento,Boa Viagem,R$ 267.687,28m²,1,1,1
+797,apartamento,Encruzilhada,R$ 1.299.000,149m²,3,3,2
+798,apartamento,Torreão,R$ 404.474,56m²,2,1,1
+799,apartamento,Encruzilhada,R$ 363.803,58m²,2,2,1
+800,apartamento,Graças,R$ 1.800.000,200m²,4,4,3
+801,apartamento,Boa Viagem,R$ 350.000,80m²,2,1,1
+802,apartamento,Boa Viagem,R$ 3.000.000,500m²,4,5,4
+803,apartamento,Boa Viagem,R$ 900.000,126m²,4,4,2
+804,apartamento,Casa Amarela,R$ 470.000,136m²,3,3,1
+805,apartamento,Boa Viagem,R$ 400.000,69m²,2,2,1
+806,apartamento,Boa Viagem,R$ 1.650.000,204m²,4,3,3
+807,apartamento,Espinheiro,R$ 490.000,82m²,3,3,2
+808,apartamento,Torre,R$ 968.000,97m²,3,2,2
+809,apartamento,Boa Viagem,R$ 550.000,116m²,2,2,2
+810,apartamento,Encruzilhada,R$ 185.000,59m²,2,2,1
+811,apartamento,Ilha do Retiro,R$ 1.650.000,135m²,4,2,2
+812,apartamento,Campo Grande,R$ 280.000,94m²,3,3,4
+813,apartamento,Casa Forte,R$ 1.017.112,146m²,4,5,3
+814,apartamento,Soledade,R$ 260.000,78m²,2,2,1
+815,apartamento,Pina,R$ 229.400,29m²,1,1,1
+816,apartamento,Pina,R$ 2.098.200,152m²,4,2,2
+817,apartamento,Casa Forte,R$ 715.000,112m²,3,1,2
+818,apartamento,Soledade,R$ 340.000,32m²,1,1,1
+819,apartamento,Casa Amarela,R$ 350.000,64m²,3,1,1
+820,apartamento,Boa Viagem,R$ 860.000,97m²,3,3,1
+821,apartamento,Pina,R$ 430.000,62m²,2,2,2
+822,apartamento,Zumbi,R$ 454.500,61m²,3,2,1
+823,apartamento,Boa Vista,R$ 300.000,115m²,3,1,1
+824,apartamento,Madalena,R$ 1.479.000,128m²,4,4,2
+825,apartamento,Parnamirim,R$ 360.000,75m²,2,2,1
+826,apartamento,Boa Viagem,R$ 420.000,110m²,3,3,1
+827,apartamento,Boa Viagem,R$ 450.000,135m²,3,2,2
+828,apartamento,Boa Viagem,R$ 700.000,96m²,4,3,1
+829,apartamento,Pina,R$ 1.600.000,156m²,4,4,3
+830,apartamento,Campo Grande,R$ 335.000,97m²,3,3,2
+831,apartamento,Caxangá,R$ 450.000,84m²,3,2,2
+832,apartamento,Boa Viagem,R$ 879.450,58m²,1,1,1
+833,apartamento,Boa Viagem,R$ 550.000,81m²,3,2,2
+834,apartamento,Aflitos,R$ 920.000,130m²,3,4,2
+835,apartamento,Boa Viagem,R$ 550.000,82m²,3,3,2
+836,apartamento,Graças,R$ 855.000,84m²,3,3,2
+837,apartamento,Boa Viagem,R$ 910.000,95m²,3,3,2
+838,apartamento,Santo Amaro,R$ 310.000,52m²,1,1,1
+839,apartamento,Boa Viagem,R$ 699.000,63m²,3,2,2
+840,apartamento,Ilha do Leite,R$ 370.000,34m²,1,1,1
+841,apartamento,Madalena,R$ 714.000,99m²,3,1,2
+842,apartamento,Boa Viagem,R$ 1.170.000,130m²,4,1,2
+843,apartamento,Boa Viagem,R$ 1.150.000,123m²,4,4,2
+844,apartamento,Pina,R$ 373.335,35m²,1,1,1
+845,apartamento,Espinheiro,R$ 680.000,95m²,3,2,2
+846,apartamento,Casa Forte,R$ 1.680.000,10m²,4,1,3
+847,apartamento,Boa Viagem,R$ 240.000,42m²,1,1,1
+848,apartamento,Boa Viagem,R$ 650.000,105m²,3,3,2
+849,apartamento,Casa Amarela,R$ 320.734,41m²,2,1,1
+850,apartamento,Ponto de Parada,R$ 1.100.000,125m²,4,4,3
+851,apartamento,Várzea,R$ 340.000,55m²,2,1,1
+852,apartamento,Torre,R$ 550.000,90m²,3,3,2
+853,apartamento,Madalena,R$ 881.161,90m²,3,2,2
+854,apartamento,Monteiro,R$ 1.580.000,215m²,4,6,4
+855,apartamento,Boa Viagem,R$ 560.000,115m²,3,1,1
+856,apartamento,Casa Forte,R$ 390.000,49m²,2,1,1
+857,apartamento,Madalena,R$ 759.000,90m²,3,1,2
+858,apartamento,Várzea,R$ 383.960,55m²,2,2,1
+859,apartamento,Parnamirim,R$ 1.100.000,302m²,4,5,2
+860,apartamento,Boa Viagem,R$ 620.000,150m²,4,3,2
+861,apartamento,Boa Viagem,R$ 450.000,54m²,2,2,2
+862,apartamento,Boa Viagem,R$ 790.000,90m²,3,2,3
+863,apartamento,Madalena,R$ 488.354,60m²,2,2,1
+864,apartamento,Iputinga,R$ 305.500,47m²,2,1,1
+865,apartamento,Boa Viagem,R$ 590.000,153m²,3,3,1
+866,apartamento,Madalena,R$ 1.070.282,153m²,4,1,2
+867,apartamento,Espinheiro,R$ 671.123,56m²,2,1,1
+868,apartamento,Boa Viagem,R$ 990.988,130m²,4,4,2
+869,apartamento,Santana,R$ 6.852.000,527m²,5,2,4
+870,apartamento,Graças,R$ 780.000,136m²,4,3,2
+871,apartamento,Boa Viagem,R$ 460.000,64m²,3,2,1
+872,apartamento,Tamarineira,R$ 635.000,66m²,3,1,1
+873,apartamento,Boa Viagem,R$ 900.000,95m²,3,3,2
+874,apartamento,Graças,R$ 1.450.000,158m²,4,3,2
+875,apartamento,Boa Viagem,R$ 450.000,65m²,3,2,1
+876,apartamento,Boa Viagem,R$ 441.785,59m²,3,2,1
+877,apartamento,Boa Viagem,R$ 2.980.000,154m²,3,4,3
+878,apartamento,Jaqueira,R$ 490.000,94m²,3,3,1
+879,apartamento,Boa Viagem,R$ 590.000,62m²,3,1,1
+880,apartamento,Madalena,R$ 170.000,52m²,2,2,1
+881,apartamento,Parnamirim,R$ 1.100.000,178m²,2,1,2
+882,apartamento,Rosarinho,R$ 390.000,63m²,2,2,1
+883,apartamento,Casa Amarela,R$ 430.000,88m²,3,3,1
+884,apartamento,Boa Viagem,R$ 1.700.000,187m²,4,4,3
+885,apartamento,Casa Amarela,R$ 520.000,84m²,3,1,2
+886,apartamento,Campo Grande,R$ 190.000,75m²,3,2,1
+887,apartamento,Torre,R$ 340.000,43m²,2,2,1
+888,apartamento,Casa Amarela,R$ 690.000,98m²,3,2,2
+889,apartamento,Boa Viagem,R$ 735.000,144m²,4,1,2
+890,apartamento,Graças,R$ 420.000,76m²,3,3,1
+891,apartamento,Boa Viagem,R$ 550.000,82m²,3,3,2
+892,apartamento,Parnamirim,R$ 1.350.000,309m²,4,4,3
+893,apartamento,Boa Viagem,R$ 540.000,150m²,3,1,1
+894,apartamento,Espinheiro,R$ 530.000,81m²,2,2,2
+895,apartamento,Imbiribeira,R$ 399.000,64m²,3,2,2
+896,apartamento,Pina,R$ 470.000,72m²,3,2,1
+897,apartamento,Boa Viagem,R$ 386.314,30m²,1,1,1
+898,apartamento,Boa Viagem,R$ 1.300.000,125m²,3,3,2
+899,apartamento,Boa Viagem,R$ 265.000,65m²,2,2,1
+900,apartamento,Monteiro,R$ 585.000,147m²,4,4,2
+901,apartamento,Boa Vista,R$ 418.500,48m²,1,1,1
+902,apartamento,Tamarineira,R$ 550.000,118m²,3,3,1
+903,apartamento,Boa Viagem,R$ 330.000,73m²,3,2,1
+904,apartamento,Casa Amarela,R$ 1.180.000,130m²,4,5,2
+905,apartamento,Tamarineira,R$ 715.000,107m²,4,4,3
+906,apartamento,Casa Forte,R$ 1.217.773,91m²,3,1,2
+907,apartamento,Boa Viagem,R$ 3.180.000,186m²,4,5,3
+908,apartamento,Boa Viagem,R$ 2.000.000,270m²,4,4,3
+909,apartamento,Ilha do Retiro,R$ 550.000,67m²,3,2,1
+910,apartamento,Várzea,R$ 232.600,35m²,2,1,1
+911,apartamento,Boa Viagem,R$ 1.300.000,127m²,4,4,2
+912,apartamento,Boa Viagem,R$ 1.100.000,170m²,3,4,2
+913,apartamento,Rosarinho,R$ 515.000,55m²,2,2,1
+914,apartamento,Pina,R$ 800.000,125m²,3,3,2
+915,apartamento,Espinheiro,R$ 414.126,54m²,2,1,1
+916,apartamento,Casa Amarela,R$ 867.815,124m²,4,2,2
+917,apartamento,Boa Viagem,R$ 550.000,120m²,3,3,1
+918,apartamento,Boa Viagem,R$ 656.218,50m²,1,1,1
+919,apartamento,Pina,R$ 1.465.000,126m²,4,1,2
+920,apartamento,Boa Viagem,R$ 1.050.000,170m²,3,3,1
+921,apartamento,Imbiribeira,R$ 490.000,146m²,3,2,2
+922,apartamento,Boa Viagem,R$ 340.000,108m²,3,3,1
+923,apartamento,Encruzilhada,R$ 870.000,113m²,3,4,2
+924,apartamento,Boa Viagem,R$ 694.077,69m²,2,1,1
+925,apartamento,Boa Viagem,R$ 265.000,90m²,3,1,1
+926,apartamento,Campo Grande,R$ 350.000,86m²,3,3,1
+927,apartamento,Boa Viagem,R$ 720.000,100m²,3,4,2
+928,apartamento,Tamarineira,R$ 430.000,60m²,3,2,1
+929,apartamento,Pina,R$ 470.000,72m²,3,2,1
+930,apartamento,Casa Amarela,R$ 770.000,122m²,4,4,2
+931,apartamento,Boa Viagem,R$ 1.160.000,94m²,3,1,2
+932,apartamento,Madalena,R$ 780.000,110m²,3,4,2
+933,apartamento,Madalena,R$ 735.000,87m²,3,3,2
+934,apartamento,Madalena,R$ 380.000,65m²,3,2,1
+935,apartamento,Jaqueira,R$ 1.500.000,204m²,4,5,3
+936,apartamento,Boa Viagem,R$ 360.000,30m²,1,1,1
+937,apartamento,Boa Viagem,R$ 650.000,79m²,2,3,1
+938,apartamento,Boa Viagem,R$ 548.951,46m²,2,2,1
+939,apartamento,Boa Viagem,R$ 700.000,211m²,3,3,1
+940,apartamento,Casa Amarela,R$ 360.000,68m²,3,2,1
+941,apartamento,Imbiribeira,R$ 299.000,52m²,2,2,1
+942,apartamento,Boa Viagem,R$ 785.000,91m²,3,3,2
+943,apartamento,Boa Viagem,R$ 650.000,76m²,3,3,1
+944,apartamento,Casa Forte,R$ 1.350.000,124m²,4,4,2
+945,apartamento,Boa Viagem,R$ 350.000,84m²,3,3,1
+946,apartamento,Pina,R$ 450.000,70m²,3,2,1
+947,apartamento,Casa Amarela,R$ 390.000,50m²,2,1,1
+948,apartamento,Boa Viagem,R$ 235.000,70m²,3,2,1
+949,apartamento,Pina,R$ 662.528,44m²,1,2,1
+950,apartamento,Boa Viagem,R$ 3.000.000,260m²,4,6,3
+951,apartamento,Tamarineira,R$ 345.000,36m²,1,1,1
+952,apartamento,Boa Viagem,R$ 1.600.000,175m²,5,5,3
+953,apartamento,Madalena,R$ 700.000,65m²,3,3,1
+954,apartamento,Boa Viagem,R$ 709.000,63m²,3,2,2
+955,apartamento,Boa Viagem,R$ 360.000,149m²,4,3,1
+956,apartamento,Boa Viagem,R$ 414.000,32m²,1,1,1
+957,apartamento,Aflitos,R$ 504.000,73m²,3,1,1
+958,apartamento,Boa Viagem,R$ 400.000,115m²,3,1,2
+959,apartamento,Boa Viagem,R$ 3.150.000,230m²,4,6,3
+960,apartamento,Boa Viagem,R$ 980.000,113m²,3,3,2
+961,apartamento,Imbiribeira,R$ 130.000,39m²,1,1,1
+962,apartamento,Aflitos,R$ 350.000,60m²,2,2,1
+963,apartamento,Torre,R$ 665.000,76m²,3,2,2
+964,apartamento,Paissandu,R$ 310.000,32m²,1,1,1
+965,apartamento,Várzea,R$ 328.000,55m²,2,2,1
+966,apartamento,Boa Viagem,R$ 320.000,77m²,3,2,1
+967,apartamento,Boa Viagem,R$ 650.000,120m²,3,3,1
+968,apartamento,Boa Viagem,R$ 680.000,63m²,3,1,2
+969,apartamento,Boa Viagem,R$ 320.000,75m²,2,2,1
+970,apartamento,Monteiro,R$ 1.200.000,191m²,4,4,3
+971,apartamento,Boa Viagem,R$ 2.700.000,220m²,3,4,2
+972,apartamento,Prado,R$ 300.000,77m²,3,3,1
+973,apartamento,Boa Viagem,R$ 321.000,37m²,1,1,1
+974,apartamento,Pina,R$ 1.660.000,126m²,3,4,2
+975,apartamento,Boa Viagem,R$ 730.000,136m²,4,3,2
+976,apartamento,Aflitos,R$ 630.000,110m²,3,3,1
+977,apartamento,Madalena,R$ 608.000,76m²,3,3,2
+978,apartamento,Boa Viagem,R$ 950.000,204m²,3,1,2
+979,apartamento,Tamarineira,R$ 520.000,77m²,3,3,1
+980,apartamento,Tamarineira,R$ 480.000,50m²,2,2,1
+981,apartamento,Boa Viagem,R$ 1.580.000,137m²,4,3,2
+982,apartamento,Boa Viagem,R$ 800.000,120m²,3,3,1
+983,apartamento,Boa Viagem,R$ 650.000,120m²,3,2,2
+984,apartamento,Madalena,R$ 1.392.000,99m²,2,3,1
+985,apartamento,Parnamirim,R$ 345.000,44m²,1,1,1
+986,apartamento,Encruzilhada,R$ 395.000,63m²,2,1,1
+987,apartamento,Boa Viagem,R$ 820.000,95m²,3,3,2
+988,apartamento,Boa Viagem,R$ 380.000,146m²,3,2,1
+989,apartamento,Graças,R$ 830.585,10m²,3,1,2
+990,apartamento,Tamarineira,R$ 350.000,104m²,3,2,2
+991,apartamento,Prado,R$ 240.000,93m²,3,2,3
+992,apartamento,Madalena,R$ 1.529.000,132m²,4,4,2
+993,apartamento,Boa Viagem,R$ 450.000,120m²,3,3,1
+994,apartamento,Madalena,R$ 690.000,98m²,3,2,2
+995,apartamento,Boa Viagem,R$ 680.000,82m²,3,3,2
+996,apartamento,Boa Viagem,R$ 828.079,86m²,3,3,1
+997,apartamento,Torre,R$ 350.000,103m²,2,2,1
+998,apartamento,Boa Viagem,R$ 550.000,80m²,2,1,1
+999,apartamento,Pina,R$ 658.533,44m²,2,2,1
+1000,apartamento,Boa Viagem,R$ 3.000.000,503m²,4,5,4
+1001,apartamento,Boa Viagem,R$ 400.000,84m²,2,2,1
+1002,apartamento,Boa Viagem,R$ 700.000,154m²,3,3,2
+1003,apartamento,Boa Viagem,R$ 1.250.000,92m²,3,3,2
+1004,apartamento,Boa Viagem,R$ 470.000,87m²,3,1,1
+1005,apartamento,Madalena,R$ 409.218,59m²,3,2,1
+1006,apartamento,Madalena,R$ 929.283,90m²,3,2,2
+1007,apartamento,Aflitos,R$ 373.340,37m²,1,1,1
+1008,apartamento,Boa Viagem,R$ 360.000,115m²,3,3,1
+1009,apartamento,Boa Viagem,R$ 1.230.119,93m²,3,2,2
+1010,apartamento,Boa Vista,R$ 358.000,52m²,2,1,1
+1011,apartamento,Monteiro,R$ 1.750.000,172m²,4,5,3
+1012,apartamento,Rosarinho,R$ 350.000,60m²,2,2,1
+1013,apartamento,Graças,R$ 420.000,89m²,3,2,1
+1014,apartamento,Madalena,R$ 515.000,62m²,2,1,1
+1015,apartamento,Monteiro,R$ 1.990.000,234m²,4,5,3
+1016,apartamento,Boa Viagem,R$ 1.050.000,120m²,3,3,2
+1017,apartamento,Casa Forte,R$ 1.620.000,190m²,4,5,3
+1018,apartamento,Boa Viagem,R$ 640.000,83m²,3,3,2
+1019,apartamento,Barro,R$ 324.900,61m²,3,2,1
+1020,apartamento,Boa Viagem,R$ 1.400.000,136m²,3,4,2
+1021,apartamento,Tamarineira,R$ 388.500,69m²,3,1,1
+1022,apartamento,Madalena,R$ 690.000,96m²,3,2,2
+1023,apartamento,Boa Viagem,R$ 420.000,98m²,3,2,1
+1024,apartamento,Boa Viagem,R$ 700.000,152m²,3,1,2
+1025,apartamento,Parnamirim,R$ 400.000,34m²,1,1,1
+1026,apartamento,Monteiro,R$ 1.114.722,140m²,4,3,2
+1027,apartamento,Madalena,R$ 635.000,100m²,3,3,2
+1028,apartamento,Pina,R$ 1.990.000,136m²,4,2,2
+1029,apartamento,Pina,R$ 495.000,380m²,4,6,1
+1030,apartamento,Jaqueira,R$ 3.700.000,312m²,4,2,4
+1031,apartamento,Boa Viagem,R$ 775.000,72m²,2,2,1
+1032,apartamento,Boa Viagem,R$ 841.305,86m²,3,1,2
+1033,apartamento,Encruzilhada,R$ 346.741,55m²,2,1,1
+1034,apartamento,Imbiribeira,R$ 375.000,63m²,3,2,1
+1035,apartamento,Graças,R$ 389.000,52m²,2,1,1
+1036,apartamento,Boa Viagem,R$ 750.000,185m²,3,2,2
+1037,apartamento,Soledade,R$ 363.000,52m²,2,2,1
+1038,apartamento,Casa Amarela,R$ 506.929,58m²,2,2,1
+1039,apartamento,Boa Viagem,R$ 480.000,135m²,4,3,2
+1040,apartamento,Boa Viagem,R$ 540.000,98m²,3,3,2
+1041,apartamento,Madalena,R$ 470.000,66m²,3,2,1
+1042,apartamento,Boa Viagem,R$ 470.000,60m²,2,2,1
+1043,apartamento,Soledade,R$ 268.000,32m²,1,1,1
+1044,apartamento,Caxangá,R$ 413.707,69m²,2,1,1
+1045,apartamento,Aflitos,R$ 500.000,120m²,3,1,2
+1046,apartamento,Casa Forte,R$ 1.600.000,10m²,4,2,3
+1047,apartamento,Engenho do Meio,R$ 430.000,220m²,4,2,1
+1048,apartamento,Graças,R$ 1.200.000,166m²,3,3,2
+1049,apartamento,Madalena,R$ 340.000,90m²,3,2,2
+1050,apartamento,Boa Viagem,R$ 400.000,130m²,3,3,1
+1051,apartamento,Ilha do Retiro,R$ 1.650.000,3m²,4,4,2
+1052,apartamento,Boa Viagem,R$ 1.000.000,97m²,3,3,2
+1053,apartamento,Espinheiro,R$ 614.118,67m²,2,1,2
+1054,apartamento,Boa Viagem,R$ 230.000,94m²,3,2,1
+1055,apartamento,São José,R$ 358.265,35m²,1,1,1
+1056,apartamento,Boa Viagem,R$ 675.000,86m²,3,3,2
+1057,apartamento,Paissandu,R$ 280.000,92m²,3,2,1
+1058,apartamento,Boa Viagem,R$ 1.500.000,132m²,3,1,2
+1059,apartamento,Parnamirim,R$ 946.000,105m²,3,4,2
+1060,apartamento,Tamarineira,R$ 410.000,60m²,3,2,1
+1061,apartamento,Boa Viagem,R$ 410.000,57m²,2,2,1
+1062,apartamento,Boa Viagem,R$ 924.000,84m²,3,3,2
+1063,apartamento,Tamarineira,R$ 348.000,107m²,3,1,1
+1064,apartamento,Boa Viagem,R$ 275.000,75m²,2,2,1
+1065,apartamento,Casa Forte,R$ 3.600.000,10m²,4,1,5
+1066,apartamento,Rosarinho,R$ 410.000,75m²,3,3,1
+1067,apartamento,Madalena,R$ 550.000,100m²,3,3,1
+1068,apartamento,Boa Viagem,R$ 520.000,148m²,4,3,1
+1069,apartamento,Madalena,R$ 520.000,110m²,4,3,1
+1070,apartamento,Monteiro,R$ 1.500.000,165m²,4,6,16
+1071,apartamento,Iputinga,R$ 250.000,80m²,3,1,1
+1072,apartamento,Boa Viagem,R$ 660.000,60m²,3,2,1
+1073,apartamento,Boa Viagem,R$ 780.000,90m²,2,3,2
+1074,apartamento,Graças,R$ 590.000,90m²,3,2,2
+1075,apartamento,Boa Viagem,R$ 900.000,97m²,3,2,2
+1076,apartamento,Boa Viagem,R$ 480.000,140m²,4,3,1
+1077,apartamento,Boa Viagem,R$ 390.000,79m²,2,1,1
+1078,apartamento,Boa Viagem,R$ 240.000,72m²,3,2,1
+1079,apartamento,Santana,R$ 830.000,112m²,3,1,2
+1080,apartamento,Boa Viagem,R$ 800.000,125m²,3,4,2
+1081,apartamento,Boa Viagem,R$ 265.000,58m²,2,3,1
+1082,apartamento,Boa Viagem,R$ 350.000,90m²,3,2,1
+1083,apartamento,Boa Viagem,R$ 1.490.000,137m²,4,5,2
+1084,apartamento,Boa Viagem,R$ 780.000,112m²,3,3,2
+1085,apartamento,Pina,R$ 3.400.000,185m²,4,4,3
+1086,apartamento,Encruzilhada,R$ 370.000,70m²,3,3,1
+1087,apartamento,Rosarinho,R$ 913.000,84m²,3,3,2
+1088,apartamento,Graças,R$ 210.000,71m²,2,1,1
+1089,apartamento,Boa Viagem,R$ 650.000,115m²,3,2,2
+1090,apartamento,Boa Viagem,R$ 1.300.000,150m²,4,3,2
+1091,apartamento,Boa Viagem,R$ 370.000,55m²,3,1,1
+1092,apartamento,Casa Amarela,R$ 1.400.000,190m²,4,3,3
+1093,apartamento,Ilha do Retiro,R$ 1.550.000,227m²,3,5,3
+1094,apartamento,Boa Viagem,R$ 600.000,123m²,3,3,1
+1095,apartamento,Pina,R$ 410.000,70m²,3,1,1
+1096,apartamento,Boa Viagem,R$ 615.000,69m²,2,1,1
+1097,apartamento,Boa Viagem,R$ 3.150.000,230m²,4,6,3
+1098,apartamento,Jaqueira,R$ 700.000,58m²,2,1,1
+1099,apartamento,Boa Viagem,R$ 792.000,92m²,3,1,2
+1100,apartamento,Boa Viagem,R$ 405.000,73m²,2,2,1
+1101,apartamento,Boa Viagem,R$ 834.323,54m²,1,1,1
+1102,apartamento,Torreão,R$ 1.280.000,189m²,4,6,3
+1103,apartamento,Madalena,R$ 374.000,46m²,2,2,1
+1104,apartamento,Boa Viagem,R$ 1.400.000,136m²,4,4,2
+1105,apartamento,Aflitos,R$ 480.000,73m²,3,2,1
+1106,apartamento,Casa Amarela,R$ 350.000,10m²,3,1,1
+1107,apartamento,Boa Viagem,R$ 305.000,32m²,1,1,1
+1108,apartamento,Tamarineira,R$ 239.189,42m²,2,1,1
+1109,apartamento,Madalena,R$ 230.000,65m²,2,1,1
+1110,apartamento,Boa Viagem,R$ 360.000,78m²,3,2,1
+1111,apartamento,Espinheiro,R$ 1.100.000,143m²,4,1,2
+1112,apartamento,Boa Viagem,R$ 704.909,72m²,2,2,1
+1113,apartamento,Boa Viagem,R$ 650.000,160m²,3,1,1
+1114,apartamento,Boa Viagem,R$ 380.000,95m²,3,2,2
+1115,apartamento,Boa Viagem,R$ 270.010,43m²,2,1,1
+1116,apartamento,Boa Viagem,R$ 420.000,92m²,3,3,2
+1117,apartamento,Monteiro,R$ 1.380.000,158m²,4,5,3
+1118,apartamento,Campo Grande,R$ 250.000,68m²,3,1,1
+1119,apartamento,Madalena,R$ 320.000,106m²,3,3,1
+1120,apartamento,Encruzilhada,R$ 390.000,60m²,3,3,2
+1121,apartamento,Encruzilhada,R$ 280.000,60m²,2,1,1
+1122,apartamento,Madalena,R$ 345.000,39m²,1,1,1
+1123,apartamento,Boa Viagem,R$ 599.000,77m²,3,1,1
+1124,apartamento,Ponto de Parada,R$ 300.000,105m²,3,1,1
+1125,apartamento,Jaqueira,R$ 2.100.000,204m²,4,2,3
+1126,apartamento,Boa Viagem,R$ 430.000,52m²,2,1,1
+1127,apartamento,Ilha do Retiro,R$ 610.000,67m²,3,2,1
+1128,apartamento,Boa Viagem,R$ 490.000,72m²,3,1,2
+1129,apartamento,Parnamirim,R$ 2.650.000,273m²,3,4,4
+1130,apartamento,Boa Viagem,R$ 403.392,30m²,1,1,1
+1131,apartamento,Boa Viagem,R$ 295.680,35m²,1,1,1
+1132,apartamento,Pina,R$ 1.650.000,124m²,3,4,2
+1133,apartamento,Várzea,R$ 355.000,52m²,2,2,1
+1134,apartamento,Casa Amarela,R$ 1.100.000,123m²,3,1,2
+1135,apartamento,Aflitos,R$ 690.000,87m²,3,3,2
+1136,apartamento,Derby,R$ 590.000,254m²,4,2,2
+1137,apartamento,Apipucos,R$ 1.001.810,140m²,4,2,2
+1138,apartamento,Boa Viagem,R$ 1.000.000,160m²,4,4,2
+1139,apartamento,Tamarineira,R$ 1.460.000,124m²,4,3,2
+1140,apartamento,Boa Viagem,R$ 420.000,45m²,2,1,1
+1141,apartamento,Casa Forte,R$ 590.000,87m²,3,1,2
+1142,apartamento,Tamarineira,R$ 410.000,60m²,3,2,1
+1143,apartamento,Parnamirim,R$ 980.000,305m²,4,2,3
+1144,apartamento,San Martin,R$ 330.000,70m²,3,2,1
+1145,apartamento,Boa Viagem,R$ 650.000,69m²,3,2,2
+1146,apartamento,Casa Amarela,R$ 320.000,41m²,2,1,1
+1147,apartamento,Encruzilhada,R$ 300.000,118m²,3,3,1
+1148,apartamento,Boa Viagem,R$ 1.200.000,136m²,4,1,2
+1149,apartamento,Boa Viagem,R$ 2.650.000,255m²,4,5,2
+1150,apartamento,Graças,R$ 345.000,44m²,1,1,1
